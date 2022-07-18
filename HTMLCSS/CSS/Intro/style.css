@@ -1,0 +1,18 @@
+/* Formas de agregarle un estilo */
+/* Por etiqueta particular ej. */
+p {
+    color: blueviolet;
+    font-size: medium;
+}
+/* por class */
+.parrafo {
+    color: aqua;
+    font-size: large;
+}
+
+/* Por ID */
+
+#texto {
+    color: red;
+    font-size: small;
+}
