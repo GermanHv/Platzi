@@ -1,0 +1,8 @@
+html {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: inherit; /* inherit es heredar */
+}
